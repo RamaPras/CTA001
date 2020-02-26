@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\bin\Debug\CTA001H2_1.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\bin\Debug\CTA001H2_1.exe
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\bin\Debug\CTA001H2_1.pdb
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\bin\Debug\CTA001H2_1.xml
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\bin\Debug\Teradata.Client.Provider.dll
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\bin\Debug\Teradata.Net.Security.Tdgss.dll
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\bin\Debug\Teradata.Client.Provider.xml
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\bin\Debug\ja\Teradata.Client.Provider.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\bin\Debug\ja\Teradata.Net.Security.Tdgss.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\obj\Debug\CTA001H2_1.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\obj\Debug\CTA001H2_1.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\obj\Debug\CTA001H2_1.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\obj\Debug\CTA001H2_1.exe
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\obj\Debug\CTA001H2_1.xml
+c:\users\user\documents\visual studio 2013\Projects\CTA001H2_1\CTA001H2_1\obj\Debug\CTA001H2_1.pdb

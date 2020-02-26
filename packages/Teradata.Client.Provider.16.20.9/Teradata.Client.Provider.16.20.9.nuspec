@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Teradata.Client.Provider</id>
+    <version>16.20.9</version>
+    <title>.NET Data Provider for Teradata</title>
+    <authors>Teradata Corporation</authors>
+    <owners>Teradata Corporation</owners>
+    <licenseUrl>https://www.nuget.org/packages/Teradata.Client.Provider/16.20.9/license</licenseUrl>
+    <projectUrl>https://downloads.teradata.com/download/connectivity/net-data-provider-for-teradata</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/teradata.client.provider/16.20.9/icon</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>The .NET Data Provider for Teradata is an implementation of the Microsoft ADO.NET Data Provider specification. It provides direct access to the Teradata Database and integrates with the System.Data.DataSet class.
+
+Supported platforms:
+- .NET Framework 4.5.2+
+- .NET Standard 2.0+</description>
+    <summary />
+    <copyright>Copyright (C) 2005-2020 by Teradata Corporation. All rights reserved.</copyright>
+    <tags>Teradata Database Data Provider ADO.NET</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2" />
+      <group targetFramework="Unsupported0.0">
+        <dependency id="System.Security.Principal.Windows" version="4.4.0" />
+        <dependency id="System.Text.Encoding.CodePages" version="4.4.0" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Configuration" targetFramework=".NETFramework4.5.2" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
